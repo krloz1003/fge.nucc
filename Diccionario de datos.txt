@@ -1,0 +1,7 @@
+/**
+ *  Diccionario de datos:
+ */
+
+ env("CLAVE")   =>  Es un número identificador de modulo (prefix).
+                    Este es asignado por la API de NUC y es insertado en el
+                    .env de cada projecto que solicita la generación de NUC.
